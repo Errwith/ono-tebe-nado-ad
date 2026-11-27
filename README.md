@@ -2,7 +2,7 @@
 
 Лендинг аукциона «Оно тебе надо» — вещей, в которые никто не верил, но которые стали культовыми.
 
-Репозиторий проекта: [https://github.com/Errwith/ono-tebe-nado-ad](https://github.com/Errwith/ono-tebe-nado-ad)
+Репозиторий проекта: https://github.com/Errwith/ono-tebe-nado-ad
 
 ## О проекте
 
